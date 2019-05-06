@@ -3,6 +3,7 @@ from board import generate_the_board
 from board import where_fits_dict
 from board import number_of_neighboars
 from tools import fits_in
+from visuals import show_solution
 import time
 
 the_board = generate_the_board()
@@ -58,3 +59,4 @@ if __name__ == '__main__':
         print('Solution found:')
         for piece in A:
             print(piece)
+        show_solution(A)
