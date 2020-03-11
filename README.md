@@ -1,5 +1,6 @@
 ## Solving annoying puzzle
-![the puzzle](./images/wooded_puzzle.png)
+
+![Puzzle](./images/wooden_puzzle.png)
 
 ### Running the scipt
 
