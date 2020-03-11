@@ -1,7 +1,7 @@
-## Solves anoying 3d puzzle
-![the puzzle](./images/wooded_puzzle.jpg)
+## Solving annoying puzzle
+![the puzzle](./images/wooded_puzzle.png)
 
-### Running the solving script
+### Running the scipt
 
     python3 -m 'venv' venv
     source venv/bin/activate
